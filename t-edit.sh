@@ -1,4 +1,5 @@
 clear
+cd $HOME
 pkg install git
 pkg install toilet
 pkg install cowsay
