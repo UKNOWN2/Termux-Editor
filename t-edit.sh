@@ -1,3 +1,4 @@
+clear
 pkg install git
 git clone https://github.com/Bhai4You/Termux-Banner
 cd $HOME/Termux-Editor/Termux-Banner
