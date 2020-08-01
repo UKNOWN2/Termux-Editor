@@ -1,9 +1,9 @@
 clear
 cd $HOME
-apt-get install git
-apt-get install toilet
-apt-get install cowsay
-apt-get install figlet
+apt-get install git -y
+apt-get install toilet -y
+apt-get install cowsay -y
+apt-get install figlet -y
 git clone https://github.com/Bhai4You/Termux-Banner
 cd $HOME/Termux-Banner
 chmod +x requirement.sh
