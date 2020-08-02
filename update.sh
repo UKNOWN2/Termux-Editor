@@ -1,4 +1,6 @@
 clear
+pkg install toilet -y
+pkg install git -y
 cd $HOME
 rm -rf Termux-Editor
 apt install git
