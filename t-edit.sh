@@ -1,5 +1,6 @@
 clear
 cd $HOME
+termux-setup-storage
 apt-get install git -y
 apt-get install toilet -y
 apt-get install cowsay -y
